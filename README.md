@@ -1,13 +1,18 @@
-# [MocaFactory] (http://www.mocadeco.com) UE4 Style Guide() {
+# UE4 Style Guide() {
 
 *Unreal Engine 4에 대한 일반적으로 합리적인 접근 방법*
 
 [Airbnb Javascript Style Guide](https://github.com/airbnb/javascript)에 영향을 많이 받았습니다.
 
+* 원문: https://github.com/Allar/ue4-style-guide
+* 번역: https://github.com/ymkim50/ue4-style-guide
+
 ## 이 문서에 대한 링크
 
-이 스타일 가이드의 모든 절은 쉬운 참조와 링크 모두를 위해 숫자가 메겨져 있습니다. 당신은 https://ue4.style의 끝에 단순히 해시 태그와 절의 숫자를 더하는 것으로 직접 어떠한 절에 대한 링크를 할 수 있습니다.
-예를 들면, 만일 당신이 누군가에게 스타일 가이드의 처음 원칙을 보내고자 한다면 '#0.1'을 붙이면 됩니다. 결과적으로는 http://ue4.style#0.1이 될 것입니다. 
+이 스타일 가이드의 모든 절은 쉬운 참조와 링크 모두를 위해 숫자가 메겨져 있습니다.
+당신은 https://github.com/MumoPark/ue4-style-guide 의 끝에 단순히 해시 태그와 절의 숫자를 더하는 것으로 직접 어떠한 절에 대한 링크를 할 수 있습니다.
+예를 들면, 만일 당신이 누군가에게 스타일 가이드의 처음 원칙을 보내고자 한다면 '#0.1'을 붙이면 됩니다.
+결과적으로는 https://github.com/MumoPark/ue4-style-guide#0.1 이 될 것입니다.
 
 ## 중요한 용어들
 
