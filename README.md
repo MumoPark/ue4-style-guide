@@ -168,11 +168,11 @@ Unreal Engine 4 팀에 참가할 때 당신의 처음 질문 중 하나는 "스�
 | Level (Gameplay)        |            | _Gameplay  |                                  |
 | Blueprint               | BP_        |            |                                  |
 | Material                | M_         |            |                                  |
-| Static Mesh             | S_ or SM_  |            | 하나만 선택합니다. SM_를 추천합니다.        |
+| Static Mesh             | SM_        |            |                                  |
 | Skeletal Mesh           | SK_        |            |                                  |
 | Texture                 | T_         | _?         | [Textures](#anc-textures)를 보도록 하십시오.    |
 | Particle System         | PS_        |            |                                  |
-| Widget Blueprint        | WB_ or WBP_|            | 하나만 선택합니다. WB_를 추천합니다.       |
+| Widget Blueprint        | WB_        |            |                                  |
 
 <a name="anc-animations"></a>
 <a name="1.2.2"></a>
@@ -185,7 +185,7 @@ Unreal Engine 4 팀에 참가할 때 당신의 처음 질문 중 하나는 "스�
 | Animation Blueprint     | ABP_       |            |                                  |
 | Animation Composite     | AC_        |            |                                  |
 | Animation Montage       | AM_        |            |                                  |
-| Animation Sequence      | A_ or AS_  |            | 하나만 선택합니다. AS_를 추천합니다.        |
+| Animation Sequence      | AS_        |            |                                  |
 | Blend Space             | BS_        |            |                                  |
 | Blend Space 1D          | BS_        |            |                                  |
 | Level Sequence          | LS_        |            |                                  |
@@ -220,8 +220,8 @@ Unreal Engine 4 팀에 참가할 때 당신의 처음 질문 중 하나는 "스�
 | Blueprint Interface     | BPI_       |            |                                  |
 | Blueprint Macro Library | BPML_      |            | 가능하다면 매크로 라이브러리들을 사용하지 않도록 합니다. |
 | Enumeration             | E          |            | 언더스코어를 사용하지 않습니다.                   |
-| Structure               | F or S     |            | 언더스코어를 사용하지 않습니다.                   |
-| Widget Blueprint        | WB_ or WBP_|            | 하나만 선택합니다. WB_를 추천합니다.       |
+| Structure               | F          |            | 언더스코어를 사용하지 않습니다.                   |
+| Widget Blueprint        | WB_        |            |                                  |
 
 <a name="anc-materials"></a>
 <a name="1.2.5"></a>
@@ -235,7 +235,7 @@ Unreal Engine 4 팀에 참가할 때 당신의 처음 질문 중 하나는 "스�
 | Material Function       | MF_        |            |                                  |
 | Material Instance       | MI_        |            |                                  |
 | Material Parameter Collection | MPC_ |            |                                  |
-| Subsurface Profile      | SP_ or SSP_|            | 하나만 선택합니다. SP_를 추천합니다.       |
+| Subsurface Profile      | SP_        |            |                                  |
 | Physical Materials      | PM_        |            |                                  |
 
 <a name="anc-textures"></a>
@@ -249,7 +249,7 @@ Unreal Engine 4 팀에 참가할 때 당신의 처음 질문 중 하나는 "스�
 | Texture (Normal)        | T_         | _N         |                                  |
 | Texture (Roughness)     | T_         | _R         |                                  |
 | Texture (Alpha/Opacity) | T_         | _A         |                                  |
-| Texture (Ambient Occlusion) | T_     | _O or _AO  | 하나만 선택합니다. AO_를 추천합니다.        |
+| Texture (Ambient Occlusion) | T_     |_AO         |                                  |
 | Texture (Bump)          | T_         | _B         |                                  |
 | Texture (Emissive)      | T_         | _E         |                                  |
 | Texture (Mask)          | T_         | _M         |                                  |
@@ -257,7 +257,7 @@ Unreal Engine 4 팀에 참가할 때 당신의 처음 질문 중 하나는 "스�
 | Texture (Packed)        | T_         | _*         | 아래의 [packing](#anc-textures-packing)에 대한 주의 사항을 보도록 하십시오. |
 | Texture Cube            | TC_        |            |                                  |
 | Media Texture           | MT_        |            |                                  |
-| Render Target           | RT_ or RTT_|            | 하나만 선택합니다. RT_를 추천합니다.       |
+| Render Target           | RT_        |            |                                  |
 | Cube Render Target      | RTC_       |            |                                  |
 | Texture Light Profile   | TLP        |            |                                  |
 
@@ -344,7 +344,7 @@ Unreal Engine 4 팀에 참가할 때 당신의 처음 질문 중 하나는 "스�
 | Font                    | Font_      |            |                                  |
 | Slate Brush             | Brush_     |            |                                  |
 | Slate Widget Style      | Style_     |            |                                  |
-| Widget Blueprint        | WB_ or WBP_|            | 하나만 선택합니다. WB_를 추천합니다.       |
+| Widget Blueprint        | WB_        |            |                                  |
 
 <a name="anc-effects"></a>
 <a name="1.2.12"></a>
